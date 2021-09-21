@@ -41,4 +41,4 @@ async def async_chat(bot, user_input):
     return reply
 
 
-client.run("NDMwMTE4MzcxNTk4NjYzNjgw.WsFQ8w.1jN3UkUKvSdGHG7Z7tY-cLcLW78")
+client.run("client_token")
